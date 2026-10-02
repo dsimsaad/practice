@@ -1,1 +1,4 @@
+HEAD
 This is line from MAIN branch
+This is line from FEATURE branch
+feature-login
